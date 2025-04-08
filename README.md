@@ -36,29 +36,6 @@ Each variant has its own white paper detailing specifications, build instruction
 - **Cost:** $241.50–$399
 - **Use Case:** Small communities (20–30 people)
 
-### 3. Circular Multi-Tank Design
-- **Type:** Five 5-gallon tanks fed by a 55-gallon central still
-- **Capacity:** 25 gallons per full loop
-- **Cycle Time:** 9.45 min/tank (parallel), 8.04 hrs for full still
-- **Cost:** $1,267.50–$1,733
-- **Use Case:** Schools, clinics, small rural communities
-
-
-### 4. Camel Pack Backpack (Portable)
-- **Type:** On-the-go UV-C backpack purifier
-- **Capacity:** 3 gallons (2-gal reservoir + 1-gal filtered)
-- **Cycle Time:** 5.46 minutes
-- **Cost:** $443.50–$675
-- **Use Case:** Hikers, travelers, disaster relief
-
-
-
-### 6. Comprehensive Options Guide
-- **Overview of all KidneyLoop designs**
-- **Tank sizes:** 1–275 gallons
-- **Power options:** Solar, battery, grid
-- **Price ranges:** Full breakdown
-
 
 ---
 
@@ -86,17 +63,7 @@ KidneyLoop aims to transform water access through **open-source innovation**. By
    - Post on social media, forums, or with NGOs using **#KidneyLoop**.
 
 4. **Partner Up**
-   - Collaborate with us for global deployment and outreach.
-   - 
-### 5. Stainless Steel Container (Household, Fully Plastic-Free)
-- **Description:** A household-sized system in a 5-gallon stainless steel container, with all water-contact components made of stainless steel for maximum safety and durability.
-- **Capacity:** 5 gallons total (3-gallon top compartment, 2-gallon bottom compartment; 640 fluid ounces).
-- **Cycle Time:** 7.04 minutes to process 2 gallons with 3 passes (99.9% bacterial removal).
-- **Cost:** $78–$345 (local/online sourcing).
-- **Use Case:** Ideal for rural households (4–6 people) or health-conscious families seeking a plastic-free solution, such as in off-grid homes in India.
-
----
-
+   - Collaborate with us for global deployment and 
 ## Acknowledgments
 
 Special thanks to **Grok**, an AI assistant developed by xAI, for assistance with design validation, calculations, and documentation.
