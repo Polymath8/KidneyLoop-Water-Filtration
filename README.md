@@ -1,7 +1,6 @@
 # KidneyLoop-Water-Filtration
 # KidneyLoop Water Filtration System
 
-![KidneyLoop Logo (Placeholder)](images/kidneyloop_logo.png)
 
 **An Open-Source Solution for Clean Water Access Worldwide**
 
