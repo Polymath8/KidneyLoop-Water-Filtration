@@ -35,7 +35,6 @@ Each variant has its own white paper detailing specifications, build instruction
 - **Cycle Time:** 9.45 minutes
 - **Cost:** $241.50–$399
 - **Use Case:** Small communities (20–30 people)
-- **[White Paper (PDF)](White_Papers/KidneyLoop_Tube_Design_White_Paper_April_7_2025.pdf)**
 
 ### 3. Circular Multi-Tank Design
 - **Type:** Five 5-gallon tanks fed by a 55-gallon central still
@@ -43,7 +42,7 @@ Each variant has its own white paper detailing specifications, build instruction
 - **Cycle Time:** 9.45 min/tank (parallel), 8.04 hrs for full still
 - **Cost:** $1,267.50–$1,733
 - **Use Case:** Schools, clinics, small rural communities
-- **[White Paper (PDF)](White_Papers/KidneyLoop_Circular_Multi_Tank_White_Paper_April_7_2025.pdf)**
+
 
 ### 4. Camel Pack Backpack (Portable)
 - **Type:** On-the-go UV-C backpack purifier
@@ -51,14 +50,14 @@ Each variant has its own white paper detailing specifications, build instruction
 - **Cycle Time:** 5.46 minutes
 - **Cost:** $443.50–$675
 - **Use Case:** Hikers, travelers, disaster relief
-- **[White Paper (PDF)](White_Papers/KidneyLoop_Camel_Pack_White_Paper_April_7_2025.pdf)**
+
 
 ### 5. Comprehensive Options Guide
 - **Overview of all KidneyLoop designs**
 - **Tank sizes:** 1–275 gallons
 - **Power options:** Solar, battery, grid
 - **Price ranges:** Full breakdown
-- **[Comprehensive Guide (PDF)](White_Papers/KidneyLoop_Comprehensive_Options_White_Paper_April_7_2025.pdf)**
+
 
 ---
 
