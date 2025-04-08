@@ -27,7 +27,7 @@ Each variant has its own white paper detailing specifications, build instruction
 - **Cycle Time:** 9.45 minutes (3 passes)
 - **Cost:** $28–$102
 - **Use Case:** Rural families (4–6 people)
-- **[White Paper (PDF)](White_Papers/KidneyLoop_Flat_Tray_White_Paper_April_7_2025.pdf)**
+
 
 ### 2. Tube Design
 - **Type:** UV-C tube with LED wrap for higher throughput
