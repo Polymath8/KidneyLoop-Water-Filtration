@@ -1,85 +1,71 @@
-# KidneyLoop Water Filtration System
+# KidneyLoop: A Modular DIY Water Sanitation System  
+*Open Source | CC0 License | Community-Modifiable*
 
+## Overview
+KidneyLoop is a DIY water recirculation and sanitation system designed for anyone who wants affordable, modular, and effective water purification. It’s inspired by the natural kidney process—filter, cleanse, and recirculate—and is built using everyday components like UV-C sterilizers, food-safe tubing, and rain barrels. Whether you’re off-grid, prepping, or just experimenting, this project is yours to build and evolve.
 
+## Project Goals
+- **Affordable** – Built with parts you can find on Amazon or in hardware stores.
+- **Modular** – Easily upgrade filters, swap sterilizers, or scale up.
+- **Simple** – No coding, welding, or chemistry needed.
+- **Effective** – Dual filtration plus UV-C to kill pathogens.
+- **Open-Source** – CC0 license: use, sell, remix, and improve.
 
-**An Open-Source Solution for Clean Water Access Worldwide**
+## How It Works
+Water loops from a "dirty" tank through:
+1. A **micron filter** to remove sediment.
+2. A **UV-C light chamber** to kill bacteria and viruses.
+3. A second **micron filter** to polish the water.
+4. Into a **clean tank**.
 
-The **KidneyLoop Water Filtration System** is a collection of open-source designs aimed at providing clean, safe drinking water to the 700 million people worldwide who lack access (FAO, 2023). Using UV-C disinfection and fine filtration, KidneyLoop removes 99.9% of bacteria, offering affordable, scalable, and portable solutions for individuals, households, and communities in water-scarce regions. Released under a **Creative Commons Zero v1.0 Universal (CC0 1.0)** license, these designs are free for anyone to build, modify, and share.
+Then a return pump recirculates water back to the dirty tank for more passes. Run 3 to 6 cycles depending on clarity and source.
 
----
+## What You'll Need (Example Parts)
+- **Two Rain Barrels or Tanks** (e.g. 50gal PVC Rain Barrel
+- **12V Micro Pumps** (HiLetgo 240L/hr ×2)
+- **Micron Filters** (5µm or 0.1µm mesh)
+- **12W Coospider UV-C Sterilizer** (inline, rated for 500gal)
+- **Food-Grade Tubing** (1/4" ID)
+- **20W 12V Solar Panel** + charge controller
+- **Fittings, Grommets, Sealant** for watertight ports
 
-## Project Overview
+## Assembly Summary
+1. Drill 2 holes in each barrel (top edge).
+2. Install barbed or threaded fittings with gaskets/sealant.
+3. Dirty Tank → Pump → Micron Filter → UV-C Sterilizer → Micron Filter → Clean Tank.
+4. Clean Tank → Return Pump → Dirty Tank.
+5. Power via solar panel or adapter.
+6. Start loop and monitor clarity.
 
-The KidneyLoop project began with a simple goal: to create a low-cost, solar-powered water purifier that anyone can build. Over time, it evolved into a multi-variant system serving different contexts—from rural homes to disaster zones. Each unit leverages:
+## Estimated Cost
+- Full setup: ~$150–$200 USD (with solar)
+- Grid-power only: ~$100–$140
 
-- **UV-C Disinfection:** 210 mJ/cm² per pass (99% bacterial reduction, 99.9% in 3 passes)
-- **Filtration:** 0.1 μm fine filter for microbial removal
+## FAQs
+**Can it remove fluoride or chlorine?**  
+No, not without a carbon block filter.
 
----
+**Is it safe for drinking?**  
+This is a DIY project, not certified for potable use. Test your water first.
 
-## KidneyLoop Variants
+**What kind of water can I clean?**  
+Best for rainwater, well water, or stream water. Not for sewage or seawater.
 
-Each variant has its own white paper detailing specifications, build instructions, and use cases.
+**How long does it take?**  
+About 30–60 minutes for 3 full recirculations on 10 gallons.
 
-### 1. Flat Tray Design (Original)
-- **Type:** Household unit with a shallow UV-C tray
-- **Capacity:** 5 gallons per cycle
-- **Cycle Time:** 9.45 minutes (3 passes)
-- **Cost:** $28–$102
-- **Use Case:** Rural families (4–6 people)
-
-
-### 2. Tube Design
-- **Type:** UV-C tube with LED wrap for higher throughput
-- **Capacity:** 5 gallons per cycle
-- **Cycle Time:** 9.45 minutes
-- **Cost:** $241.50–$399
-- **Use Case:** Small communities (20–30 people)
-
-
----
-
-## Vision for Global Impact
-
-KidneyLoop aims to transform water access through **open-source innovation**. By deploying these systems in crisis zones, rural schools, and villages, we aim to:
-
-- Eliminate waterborne diseases
-- Empower local builders and communities
-- Inspire collaboration with NGOs like UNICEF and WaterAid
-- Save lives and improve global health outcomes
-
----
-
-## How to Get Involved
-
-1. **Build a KidneyLoop**
-   - Download a white paper and follow the build instructions.
-   - Start with the Flat Tray or go mobile with the Camel Pack.
-
-2. **Contribute**
-   - Submit ideas, issues, or improvements via pull requests.
-
-3. **Share the Mission**
-   - Post on social media, forums, or with NGOs using **#KidneyLoop**.
-
-4. **Partner Up**
-   - Collaborate with us for global deployment and 
-## Acknowledgments
-
-Special thanks to **Grok**, an AI assistant developed by xAI, for assistance with design validation, calculations, and documentation.
-
----
+**Can I scale it?**  
+Yes. Just upsize tanks, pumps, UV-C unit, and filters.
 
 ## License
+Released under **Creative Commons Zero v1.0 Universal (CC0 1.0)** – Public Domain.  
+Use it, sell it, remix it, no permission needed. Attribution appreciated.
 
-This project is licensed under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) license.
+## Contribute
+Add your builds, test results, or ideas by submitting a pull request or opening an issue.  
+GitHub: GitHub: [https://github.com/Polymath8/KidneyLoop-Water-Filtration]  
+
 
 ---
 
-## Contact
-
-For collaborations or questions, reach out at **[firstpagehosting@gmail.com]**
-
----
-
-**Together, we can provide clean water to the world—one KidneyLoop at a time.**
+*"Clean water belongs to everyone."*
